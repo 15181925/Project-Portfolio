@@ -2,7 +2,7 @@ Technical Project Management Portfolio
 Welcome to my portfolio! This repository highlights my experience as a Technical Project Manager, showcasing key projects that demonstrate my expertise in project planning, execution, and stakeholder management.
 ## Key Skills:
 - Project Planning & Execution
-- Stakeholder Management
+- Stakeholder Management 
 - Cross-Functional Leadership
 - Risk Assessment & Mitigation
 - Budget Optimization & Cost Management
