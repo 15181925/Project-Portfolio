@@ -1,14 +1,26 @@
 # Technical Project Management Portfolio
 
-Welcome to my portfolio! This repository highlights my experience as a Technical Project Manager, showcasing key projects that demonstrate my expertise in project planning, execution, and stakeholder management.
+Welcome to my portfolio! This repository highlights my expertise as a Technical Project Manager with a strong background in engineering operations, project planning, and stakeholder collaboration. Over the years, I have successfully led and contributed to diverse projects that demonstrate my skills in project execution, technical design, and problem-solving.
+
+## About Me:
+I am passionate about driving innovative solutions and delivering measurable results in complex, multi-disciplinary projects. With experience across industries such as renewable energy, infrastructure, and product development, I bring a blend of technical knowledge and leadership to every project I undertake.
 
 ## Key Skills:
+
 - Project Planning & Execution
-- Stakeholder Management
+- Stakeholder Management & Collaboration
 - Cross-Functional Leadership
 - Risk Assessment & Mitigation
 - Budget Optimization & Cost Management
-- Technical Design (AutoCAD, Prototyping)
+- echnical Design (AutoCAD, Microsoft Project Prototyping, Process Re-engineering)
+
+## Portfolio Overview:
+This portfolio showcases a selection of my projects, each representing my ability to manage challenges, innovate solutions, and deliver exceptional results. Here’s what you’ll find:
+
+- Detailed case studies of my work.
+- Key achievements with measurable outcomes.
+- Insights into tools and technologies used.
+
 
 ## Featured Projects:
 1. [Energy Systems Design in the US Southwest](./projects/energy-systems-design.md)
