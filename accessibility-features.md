@@ -4,7 +4,7 @@ Country: United States of America
 
 Job Role: Project Manager
 
-Organization: Northeastern University
+Organization: Northeastern University 
 
 Project Period: N/A (Product Advice to Apple)
 
