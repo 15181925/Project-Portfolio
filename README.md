@@ -12,7 +12,7 @@ I am passionate about driving innovative solutions and delivering measurable res
 - Cross-Functional Leadership
 - Risk Assessment & Mitigation
 - Budget Optimization & Cost Management
-- echnical Design (AutoCAD, Microsoft Project Prototyping, Process Re-engineering)
+- Technical Design (AutoCAD, Microsoft Project Prototyping, Process Re-engineering)
 
 ## Portfolio Overview:
 This portfolio showcases a selection of my projects, each representing my ability to manage challenges, innovate solutions, and deliver exceptional results. Here’s what you’ll find:
