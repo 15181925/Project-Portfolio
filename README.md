@@ -33,5 +33,7 @@ This portfolio showcases a selection of my projects, each representing my abilit
 8. [Smart Watch and Assistive Features for Dementia Patients](./projects/smartwatch-design.md)
 9. [MOBA Mobile Automation System](./projects/moba-automation.md)
 10. [Human Power Conversion into Electricity Using a Swing](./projects/swing-energy-conversion.md)
-11. projects/Multi-Line Production Setup at Tankaria Industries Pvt. Ltd.
+11. [Multi-Line Production Setup at Tankaria Industries Pvt. Ltd.](./projects/Multi-Line Production Setup at Tankaria Industries Pvt.Ltd.md)
 12. 
+13. 
+    
