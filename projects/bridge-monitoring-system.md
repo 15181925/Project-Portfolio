@@ -8,6 +8,8 @@ Organization: Capital Projects Co. WLL
 
 Project Period: February 2017 – March 2018
 
+Project Cost: $ 927,500 USD (BHD 350,000 Bahraini Dinar)
+
 Project Description:
 This project involved deploying the Trimble Bridge Monitoring System on the King Fahad Causeway, a 25-kilometer-long bridge connecting Saudi Arabia and Bahrain. The system was designed to enhance structural safety and optimize maintenance by providing real-time data on key parameters such as load, vibrations, and environmental conditions.
 
