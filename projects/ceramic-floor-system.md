@@ -8,6 +8,8 @@ Organization: Tankaria Industries Pvt. Ltd
 
 Project Period: November 2022 – April 2023
 
+Project Cost:  $300,120 USD (₹2.5 crore INR)
+
 Project Description:
 This project focused on designing and delivering a customized access floor system for SRF, integrating ceramic tiles for enhanced durability and aesthetics. SRF had previously sourced ceramic tiles from China, which led to increased costs and extended timelines. To address this, I proposed and implemented a streamlined production process where ceramic tiles were directly fixed to access floor panels during manufacturing.
 
